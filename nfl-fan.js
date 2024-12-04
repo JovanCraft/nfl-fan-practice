@@ -35,3 +35,9 @@ fan2.displayFavorites();
 // Output: Sarah's favorite team is Chiefs.
 //         Favorite players:
 //         Patrick Mahomes
+
+
+
+
+console.log(fan1)
+console.log(fan2)
