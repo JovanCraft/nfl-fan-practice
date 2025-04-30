@@ -37,3 +37,6 @@ fan2.displayFavorites();
 //         Patrick Mahomes
 
 
+console.log(fan1)
+console.log(fan2)
+
